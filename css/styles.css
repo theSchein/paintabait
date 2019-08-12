@@ -1,0 +1,109 @@
+#home-title {
+  background-color: #87e5da;
+  padding-bottom: 30px;
+  padding-top: 30px;
+  text-align: center;
+}
+
+#title {
+  background-color: #87e5da;
+  transform: rotate(120deg);
+}
+
+#expierence{
+  text-align: left;
+  padding-left: 60px;
+  padding-right: 60px;
+  background-color: #c7f2e3;
+  padding-top: 20px;
+  padding-bottom: 30px;
+}
+
+#team{
+  background-color: #f7aa00;
+  padding-top: 10px;
+
+  text-align: center;
+  padding-bottom: 20px;
+}
+
+#goals {
+  background-color: #87e5da;
+  padding-bottom: 30px;
+  padding-left: 30px;
+  padding-top: 30px;
+  text-align: left;
+}
+
+#footer{
+  background-color: #f7aa00;
+  font-family: 'Montserrat';
+  font-size: 15px;
+  font-style: italic;
+  color: #ebf0c2;
+  text-align: center;
+}
+
+#general{
+  text-align: center;
+}
+
+#description{
+  padding-top: 60px;
+  text-align: center;
+  background-color: #c7f2e3;
+}
+
+#kid{
+  text-align: center;
+  background-color: #c7f2e3;
+}
+
+
+
+h1 {
+  font-family: 'Modak', cursive;
+  font-size: 4rem;
+  color:  #db2d43;
+  line-height: 1.5;
+}
+
+h2{
+    font-size: 4rem;
+    //padding-top: 100px;
+    font-family: 'Permanent Marker', cursive;
+
+}
+
+h3{
+    font-size: 4rem;
+    //padding-top: 100px;
+    font-family: 'Permanent Marker', cursive;
+
+}
+
+
+body{
+  background-color: #87e5da;
+  font-family: 'Rubik', sans-serif;
+  color:  Black;
+}
+
+
+#start{
+  font-size: 2rem;
+  font-style: italic;
+}
+
+
+/* Style page content */
+.main {
+  margin-left: 160px; /* Same as the width of the sidebar */
+  padding: 0px 10px;
+}
+
+/* On smaller screens, where height is less than 450px, change the style of the sidebar (less padding and a smaller font size) */
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}
